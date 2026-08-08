@@ -1,4 +1,4 @@
-const CACHE_NAME = 'RatioCalcX-v1';
+const CACHE_NAME = 'ratiocalcx-v1';
 const ASSETS_TO_CACHE = [
     './index.html',
     './manifest.json'
