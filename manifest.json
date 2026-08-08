@@ -1,6 +1,6 @@
 {
-  "name": "RatioCalcX",
-  "short_name": "RatioCalcX",
+  "name": "RatiocalcX",
+  "short_name": "RatiocalcX",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
